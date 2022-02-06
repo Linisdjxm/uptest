@@ -5,6 +5,8 @@ repo: uptest # The name of this repository
 sites:
   - name: QW
     url: https://zhqw.qiuwen.wiki
+  - name: MW
+    url: https://zh.moegirl.org.cn
 
 status-website:
   baseUrl: /uptest # where "repo" is your repository name
