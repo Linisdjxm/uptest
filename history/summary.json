@@ -1,24 +1,21 @@
 [
   {
-    "name": "QW",
-    "url": "https://zhqw.qiuwen.wiki",
-    "icon": "https://favicons.githubusercontent.com/zhqw.qiuwen.wiki",
-    "slug": "qw",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 161,
-    "timeDay": 242,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
-    "dailyMinutesDown": {
-      "2022-02-07": 755,
-      "2022-02-06": 794
-    }
+    "name": "GW",
+    "url": "https://www.gfwiki.org",
+    "icon": "https://favicons.githubusercontent.com/www.gfwiki.org",
+    "slug": "gw",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2192,
+    "timeDay": 2192,
+    "timeWeek": 2192,
+    "timeMonth": 2192,
+    "timeYear": 2192,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MW",
@@ -26,19 +23,39 @@
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "mw",
     "status": "down",
-    "uptime": "37.66%",
+    "uptime": "37.25%",
     "uptimeDay": "40.45%",
-    "uptimeWeek": "37.66%",
-    "uptimeMonth": "37.66%",
-    "uptimeYear": "37.66%",
+    "uptimeWeek": "37.25%",
+    "uptimeMonth": "37.25%",
+    "uptimeYear": "37.25%",
     "time": 3824,
     "timeDay": 3824,
     "timeWeek": 3824,
     "timeMonth": 3824,
     "timeYear": 3824,
     "dailyMinutesDown": {
-      "2022-02-07": 372,
+      "2022-02-07": 389,
       "2022-02-06": 592
+    }
+  },
+  {
+    "name": "IMWB",
+    "url": "https://www.ismoegirl.online",
+    "icon": "https://favicons.githubusercontent.com/www.ismoegirl.online",
+    "slug": "imwb",
+    "status": "down",
+    "uptime": "90.77%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "90.77%",
+    "uptimeYear": "90.77%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-02-07": 0
     }
   }
 ]
