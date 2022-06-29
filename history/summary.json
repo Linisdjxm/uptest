@@ -25,18 +25,19 @@
     "url": "https://zh.moegirl.org.cn",
     "icon": "https://favicons.githubusercontent.com/zh.moegirl.org.cn",
     "slug": "mw",
-    "status": "up",
-    "uptime": "78.05%",
-    "uptimeDay": "97.93%",
+    "status": "down",
+    "uptime": "78.10%",
+    "uptimeDay": "97.92%",
     "uptimeWeek": "85.51%",
     "uptimeMonth": "86.63%",
-    "uptimeYear": "78.05%",
+    "uptimeYear": "78.10%",
     "time": 6725,
     "timeDay": 1429,
     "timeWeek": 1525,
     "timeMonth": 1640,
     "timeYear": 6725,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-06-28": 30,
       "2022-06-24": 1431,
       "2022-06-19": 77,
@@ -99,7 +100,7 @@
       "2022-03-08": 125,
       "2022-03-07": 217,
       "2022-03-06": 97,
-      "2022-03-05": 49
+      "2022-03-05": 21
     }
   },
   {
