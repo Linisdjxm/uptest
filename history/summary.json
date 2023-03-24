@@ -4,9 +4,9 @@
     "url": "https://www.gfwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.gfwiki.org.ico",
     "slug": "gw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.20%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2015,
     "timeYear": 2043,
     "dailyMinutesDown": {
+      "2023-03-24": 0,
       "2023-03-22": 20,
       "2023-03-20": 23,
       "2023-01-25": 42,
@@ -57,7 +58,7 @@
     "timeDay": 3604,
     "timeWeek": 3224,
     "timeMonth": 2516,
-    "timeYear": 2403,
+    "timeYear": 2368,
     "dailyMinutesDown": {
       "2023-03-22": 18,
       "2023-03-19": 23,
