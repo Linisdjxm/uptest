@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.gfwiki.org.ico",
     "slug": "gw",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -47,18 +47,19 @@
     "url": "https://zh.moegirl.org.cn",
     "icon": "https://icons.duckduckgo.com/ip3/zh.moegirl.org.cn.ico",
     "slug": "mw",
-    "status": "up",
+    "status": "down",
     "uptime": "94.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "93.70%",
-    "time": 3089,
+    "uptimeYear": "93.71%",
+    "time": 3078,
     "timeDay": 3066,
     "timeWeek": 2878,
     "timeMonth": 3008,
     "timeYear": 2555,
     "dailyMinutesDown": {
+      "2023-05-11": 0,
       "2023-05-07": 16,
       "2023-04-27": 23,
       "2023-04-24": 28,
@@ -139,7 +140,7 @@
       "2022-10-19": 84,
       "2022-10-18": 137,
       "2022-10-17": 270,
-      "2022-10-16": 99
+      "2022-10-16": 75
     }
   },
   {
