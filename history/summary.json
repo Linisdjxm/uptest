@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.02%",
     "time": 2039,
-    "timeDay": 1920,
-    "timeWeek": 2184,
-    "timeMonth": 2074,
+    "timeDay": 2008,
+    "timeWeek": 2143,
+    "timeMonth": 2079,
     "timeYear": 2059,
     "dailyMinutesDown": {
       "2023-03-24": 23,
@@ -36,8 +36,7 @@
       "2022-08-20": 95,
       "2022-08-09": 65,
       "2022-08-08": 104,
-      "2022-08-07": 72,
-      "2022-07-07": 99
+      "2022-08-07": 72
     }
   },
   {
@@ -46,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zh.moegirl.org.cn.ico",
     "slug": "mw",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "93.77%",
-    "time": 2696,
-    "timeDay": 3058,
-    "timeWeek": 5119,
-    "timeMonth": 3647,
-    "timeYear": 2850,
+    "time": 2698,
+    "timeDay": 2961,
+    "timeWeek": 5051,
+    "timeMonth": 3709,
+    "timeYear": 2855,
     "dailyMinutesDown": {
       "2023-06-30": 67,
       "2023-06-27": 15,
@@ -164,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 162,
-    "timeDay": 190,
-    "timeWeek": 90,
-    "timeMonth": 147,
+    "timeDay": 267,
+    "timeWeek": 118,
+    "timeMonth": 149,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2022-08-24": 133,
