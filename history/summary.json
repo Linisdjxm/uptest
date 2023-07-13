@@ -44,18 +44,19 @@
     "url": "https://zh.moegirl.org.cn",
     "icon": "https://icons.duckduckgo.com/ip3/zh.moegirl.org.cn.ico",
     "slug": "mw",
-    "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.66%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "93.78%",
-    "time": 2684,
-    "timeDay": 2976,
+    "time": 2686,
+    "timeDay": 2940,
     "timeWeek": 2956,
-    "timeMonth": 3783,
+    "timeMonth": 3790,
     "timeYear": 2869,
     "dailyMinutesDown": {
+      "2023-07-13": 0,
       "2023-07-07": 24,
       "2023-06-30": 67,
       "2023-06-27": 15,
@@ -148,8 +149,7 @@
       "2022-10-26": 94,
       "2022-10-25": 87,
       "2022-10-24": 134,
-      "2022-10-23": 77,
-      "2022-10-22": 25
+      "2022-10-23": 77
     }
   },
   {
