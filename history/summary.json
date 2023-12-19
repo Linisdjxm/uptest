@@ -43,9 +43,9 @@
     "url": "https://zh.moegirl.org.cn",
     "icon": "https://icons.duckduckgo.com/ip3/zh.moegirl.org.cn.ico",
     "slug": "mw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "97.25%",
+    "uptimeDay": "97.24%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.39%",
@@ -55,6 +55,7 @@
     "timeMonth": 3301,
     "timeYear": 3557,
     "dailyMinutesDown": {
+      "2023-12-19": 0,
       "2023-12-18": 40,
       "2023-12-15": 19,
       "2023-12-13": 25,
@@ -97,7 +98,7 @@
       "2023-09-10": 66,
       "2023-09-09": 74,
       "2023-09-01": 25,
-      "2023-08-29": 42
+      "2023-08-29": 24
     }
   },
   {
@@ -106,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ismoegirl.online.ico",
     "slug": "imwb",
     "status": "down",
-    "uptime": "83.00%",
+    "uptime": "82.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.53%",
+    "uptimeYear": "68.46%",
     "time": 184,
     "timeDay": 40,
     "timeWeek": 74,
     "timeMonth": 76,
     "timeYear": 190,
     "dailyMinutesDown": {
-      "2023-12-19": 60,
+      "2023-12-19": 442,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
