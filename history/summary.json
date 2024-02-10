@@ -44,10 +44,10 @@
     "url": "https://zh.moegirl.org.cn",
     "icon": "https://icons.duckduckgo.com/ip3/zh.moegirl.org.cn.ico",
     "slug": "mw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.38%",
     "uptimeMonth": "93.15%",
     "uptimeYear": "98.75%",
     "time": 3491,
@@ -107,8 +107,7 @@
       "2023-10-13": 45,
       "2023-10-12": 16,
       "2023-10-11": 18,
-      "2023-10-05": 19,
-      "2023-10-03": 20
+      "2023-10-05": 19
     }
   },
   {
@@ -116,12 +115,12 @@
     "url": "https://www.ismoegirl.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.ismoegirl.online.ico",
     "slug": "imwb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "49.86%",
-    "uptimeWeek": "61.02%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "99.25%",
+    "uptimeDay": "49.84%",
+    "uptimeWeek": "61.59%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "99.26%",
     "time": 196,
     "timeDay": 160,
     "timeWeek": 193,
@@ -134,7 +133,7 @@
       "2024-02-07": 484,
       "2024-02-06": 719,
       "2024-02-05": 652,
-      "2024-02-04": 428
+      "2024-02-04": 370
     }
   }
 ]
