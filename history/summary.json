@@ -53,7 +53,7 @@
     "time": 3483,
     "timeDay": 3269,
     "timeWeek": 3522,
-    "timeMonth": 3871,
+    "timeMonth": 3887,
     "timeYear": 3675,
     "dailyMinutesDown": {
       "2024-02-10": 44,
@@ -115,12 +115,12 @@
     "url": "https://www.ismoegirl.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.ismoegirl.online.ico",
     "slug": "imwb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "47.86%",
-    "uptimeWeek": "59.97%",
-    "uptimeMonth": "90.79%",
-    "uptimeYear": "99.23%",
+    "uptimeDay": "50.46%",
+    "uptimeWeek": "60.15%",
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "99.24%",
     "time": 201,
     "timeDay": 439,
     "timeWeek": 225,
@@ -134,7 +134,7 @@
       "2024-02-08": 615,
       "2024-02-07": 484,
       "2024-02-06": 719,
-      "2024-02-05": 39
+      "2024-02-05": 21
     }
   }
 ]
