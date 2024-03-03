@@ -49,7 +49,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/zh.moegirl.org.cn.ico",
     "slug": "mw",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.79%",
@@ -119,14 +119,14 @@
     "url": "https://www.ismoegirl.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.ismoegirl.online.ico",
     "slug": "imwb",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "39.21%",
-    "uptimeWeek": "50.77%",
-    "uptimeMonth": "88.67%",
-    "uptimeYear": "99.06%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "40.77%",
+    "uptimeWeek": "51.35%",
+    "uptimeMonth": "88.81%",
+    "uptimeYear": "99.07%",
     "time": 247,
-    "timeDay": 229,
+    "timeDay": 227,
     "timeWeek": 379,
     "timeMonth": 301,
     "timeYear": 261,
@@ -137,7 +137,7 @@
       "2024-02-29": 730,
       "2024-02-28": 671,
       "2024-02-27": 714,
-      "2024-02-26": 469
+      "2024-02-26": 410
     }
   }
 ]
