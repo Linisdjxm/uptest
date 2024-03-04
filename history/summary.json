@@ -4,10 +4,10 @@
     "url": "https://www.gfwiki.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.gfwiki.org.ico",
     "slug": "gw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.19%",
-    "uptimeDay": "81.36%",
-    "uptimeWeek": "96.10%",
+    "uptimeDay": "81.34%",
+    "uptimeWeek": "96.09%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "98.26%",
     "time": 2067,
@@ -120,11 +120,11 @@
     "url": "https://www.ismoegirl.online",
     "icon": "https://icons.duckduckgo.com/ip3/www.ismoegirl.online.ico",
     "slug": "imwb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "52.12%",
-    "uptimeWeek": "48.42%",
-    "uptimeMonth": "88.13%",
+    "uptimeDay": "53.39%",
+    "uptimeWeek": "48.62%",
+    "uptimeMonth": "88.18%",
     "uptimeYear": "99.01%",
     "time": 248,
     "timeDay": 211,
@@ -139,7 +139,7 @@
       "2024-02-29": 730,
       "2024-02-28": 671,
       "2024-02-27": 714,
-      "2024-02-26": 179
+      "2024-02-26": 158
     }
   }
 ]
